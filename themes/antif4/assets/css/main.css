@@ -24,3 +24,25 @@ a {
   color: #00e;
   text-decoration: none;
 }
+
+#site_title {
+  display:inline;
+}
+
+#top_menu {
+  display:inline;
+}
+
+#top_menu ul {
+  display:inline;
+  list-style: none;
+}
+
+#top_menu li {
+  list-style: none;
+  display:inline;
+}
+
+#top_menu li:before {
+  content: none;
+}

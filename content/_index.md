@@ -14,7 +14,8 @@ Right now, we are focused on building up the technical infrastructure of antif4.
 
 So, what are we doing about this? 
 
-**Email**
+
+### Email
 
 Status: *Alpha*
 
