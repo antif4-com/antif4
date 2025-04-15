@@ -1,6 +1,6 @@
 @layer base, utils, components;
 
-@import "@webtui/css";
+@import "./webtui/full.css";
 
 body {
   color: #222;
