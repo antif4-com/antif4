@@ -1,3 +1,7 @@
+@layer base, utils, components;
+
+@import "@webtui/css";
+
 body {
   color: #222;
   font-family: sans-serif;
