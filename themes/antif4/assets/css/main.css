@@ -1,6 +1,7 @@
 @layer base, utils, components;
 
-@import "./webtui/full.css";
+@import "./webtui/base/full.css";
+@import './webtui/catppuccin/index.css';
 
 body {
   color: #222;

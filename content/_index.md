@@ -14,6 +14,8 @@ Right now, we are focused on building up the technical infrastructure of antif4.
 
 So, what are we doing about this? 
 
+Who are these people? 
+Can I trust them? 
 
 ### Email
 
@@ -26,13 +28,13 @@ Email is the backbone of internet identity. Without safe, secure, and private em
   * Safe, secure, and private mailing lists
   * Custom domains
 
-**Photo & File Backup** 
+### Photo & File Backup 
 
 Status: *In Planning*
 
 Many of us take advantage of providers such as Apple or Google to store our photos. 
 
-**Community** 
+### Community 
 
 Status: *Our future vision*
 
@@ -51,7 +53,7 @@ However, remember that storage is a community resource. When antif4.com runs out
 
 Sites to create:
 
-**Main Pages**
+### Main Pages
 
 * Home Page (this page)
 * About
@@ -61,7 +63,7 @@ Sites to create:
 * Tech Stack
 * How to contribute
 
-**Antif4.com Tech Dashboard**
+### Antif4.com Tech Dashboard
 
 * servers and up/down status
 * overal health
@@ -72,8 +74,11 @@ Sites to create:
   * CPU load
   * storage
   * bandwidth
+* project management
+  * tasks
+  * issues
 
-**Company Dashboard**
+### Company Dashboard
   * Monthly Expenses
   * Monthly Revenue
   * YTD Totals
