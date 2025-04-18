@@ -42,7 +42,11 @@ However, this is pure Hugo at this point. So for any questions about new content
 
 It is still early days, but antif4.com is the start of a safe, diverse internet online community. We believe that the best internet is a small internet with simple technology focused on the benefit real people. 
 
-antif4.com is also a different take on what it means to be an American company. We are taking a radically open approach to the company, everything from technology, finances, and decision making. This git repo, as the source code for the antif4.com represents our first step both as a company and our first step along an open, safe journey. 
+While we will start small, offering email to our users, we plan to expand into additional functionality including, email lists, photo and file storage/sharing, and social media functionality. But this is our plan, and as we grow the number of users getting benefit from our services, we will incorporate their needs into the product roadmap as well.  
+
+antif4.com is also a different take on what it means to be an American company. We are taking a radically open approach to "doing business", everything from technology, finances, and decision making must be open. This git repo, as the source code for the antif4.com website represents our first step both as a company and our first step along an open, safe journey. 
+
+At antif4.com we abhor scale for scale's sake and are always cautious of growing. We do not want large numbers. We want happy humans and a sustainable service, for the sake of the humans. We love all humans and want the online services people use to be human-centric. 
 
 ### Why is npm involved?
 
