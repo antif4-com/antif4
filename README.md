@@ -38,8 +38,24 @@ However, this is pure Hugo at this point. So for any questions about new content
 
 ## FAQ
 
+### What is antif4.com? 
+
+It is still early days, but antif4.com is the start of a safe, diverse internet online community. We believe that the best internet is a small internet with simple technology focused on the benefit real people. 
+
+antif4.com is also a different take on what it means to be an American company. We are taking a radically open approach to the company, everything from technology, finances, and decision making. This git repo, as the source code for the antif4.com represents our first step both as a company and our first step along an open, safe journey. 
+
 ### Why is npm involved?
 
 For styling, we are using the [WebTUI](https://webtui.ironclad.sh) CSS library and associated color themes. WebTUI is published as an npm package. So, we have an npm package wrapping our Hugo site. Currently, the only role of the npm package is to manage the npm packages that the Hugo site depends on. 
 
 `update_css.sh` is the shell script which is responsible for copying from `node_modules` to the antif4 theme's css directory under `assets`. The `npm run ...` commands are used to ensure that the Hugo css is in sync with the npm packages. 
+
+### Why is there no layout defined?
+
+All styling is done through a Hugo theme called `antif4` (we're original with naming around here). This was done so that we can easily layout/theme future sites in a similar manner.  
+
+If you need to make an html/css update, you can find the `antif4` theme under `themes/antif4`.
+
+## Get Involved
+
+Want to be involved? Any and all PRs are welcome. Feel free to send me email as well. 
