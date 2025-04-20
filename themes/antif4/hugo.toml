@@ -1,21 +1,16 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
-title = 'My New Hugo Site'
+title = 'antif4.com'
 
 [menus]
   [[menus.main]]
-    name = 'Home'
-    pageRef = '/'
-    weight = 10
-
-  [[menus.main]]
-    name = 'Posts'
-    pageRef = '/posts'
+    name = 'FAQ'
+    pageRef = '/faq'
     weight = 20
 
   [[menus.main]]
-    name = 'Tags'
-    pageRef = '/tags'
+    name = 'About'
+    pageRef = '/about-us'
     weight = 30
 
 [module]
