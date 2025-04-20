@@ -48,39 +48,3 @@ At antif4.com individual users do not have storage limits or quotas. You are fre
 
 However, remember that storage is a community resource. When antif4.com runs out of storage, everybody runs out of storage.
 
-
-
-
-Sites to create:
-
-### Main Pages
-
-* Home Page (this page)
-* About
-* FAQ
-* Getting Started
-* How to contact me
-* Tech Stack
-* How to contribute
-
-### Antif4.com Tech Dashboard
-
-* servers and up/down status
-* overal health
-  * CPU load
-  * storage
-  * bandwidth
-* per server health
-  * CPU load
-  * storage
-  * bandwidth
-* project management
-  * tasks
-  * issues
-
-### Company Dashboard
-  * Monthly Expenses
-  * Monthly Revenue
-  * YTD Totals
-  * Yearly Expenses
-  * Yearly Revenue
