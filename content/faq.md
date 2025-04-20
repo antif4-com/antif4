@@ -4,13 +4,35 @@ draft = false
 title = "Frequently Asked Questions (FAQ)"
 +++
 
-## Why now? 
+## antif4.com 
 
-### How does antif4.com view the world?
+### What is antif4.com? 
 
-### That's a lot. Shouldn't we give to organizations? 
+antif4.com is a sincere, fundamentally human, online community. 
 
-## The Company 
+We are focused on building safe, durable online communities that deeply value diversity and mtually supporting one another. We believe that online communities can fundamentally promote social wellness without the associated negatives we see in social media today, impacting everyone. 
+
+We believe the world, and by extension the online world, is not safe. We believe there are two primary forces endangering people online: capitalism and fascism.  
+
+### What's wrong with capitalism? 
+
+There's a long and a short answer. The long answer involves arguing that capitalism, as we are experiencing it today, is purely extractive and the market/political leadership are not making decisions in the best interest of the people. Even worse, they are not incentivisted to make things better for the people, nor do they show any fundamental inclination to materially improve the average persons experience with capitalism. 
+
+The short answer? Think of the last time a company was good. There's a reson why tech support sucks, we all hate our jobs, almost every job requires work "above and beyond", etc. They're not good. They system isn't designed to make good companies. It's designed to make the rich richer. 
+
+### How will antif4.com compat the influence of the modern US market? 
+
+We believe we can create a drastically better company by rejecting scale and always focus on the people. 
+
+### Reject scale? 
+
+We do not want to scale. We abhor "scaling our way" into success. Getting big kills all of us. It killed your favorite band, brand, and style of car. We want to build a successful _sustainable_ business that outlasts us all. Fuck generational wealth, let's create generational health. 
+
+### Will antif4.com charge for its services? 
+
+No. We will not charge for anything we do. While we will, at some point, look towards our users to provide resources, we are not currently. However, at no time with antif4.com ever sell anything. It will only accept freely given gifts. Gifts which are given because the giver supports our mission and wants to help ensure it succeeds. 
+
+And while gifts/resources might be money, there is no reason we should limit ourselves. The important point should always be about mutual aid and being successful through our diversity. 
 
 ### Is antif4.com political? 
 
