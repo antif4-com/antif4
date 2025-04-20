@@ -6,20 +6,17 @@ title = 'antif4.com'
   subtitle = "Safe, united, community"
 +++
 
-Hello! Welcome to our little corner of the internet. We hope that you will find a place for yourself here and be comfortable. 
+Hello! Welcome to our cozy corner of the internet. We hope that you will find it comfortable, and maybe even stay a while. 
 
-antif4.com is an experiment in internet technology and communities. We are building safe, durable places for diversity to flurish and thrive. 
+antif4.com is a sincere, fundamentally human, online community. We are focused on building safe, durable online communities that deeply value diversity and mutually supporting one another. The world is not safe, and so we must make our own safe harbors. We believe that this first must start by us taking back ownership of our personal online lives. 
 
-Right now, we are focused on building up the technical infrastructure of antif4.com. 
+Right now, we are focused on building the technical infrastructure of antif4.com and in closed, alpha testing of our intial email service. 
 
-So, what are we doing about this? 
-
-Who are these people? 
-Can I trust them? 
+Continue reading for more information about antif4.com email and our other, future plans. In addition, you can read more about us, why antif4.com is the way it is, and our hope for the future here: [About Us](/about_us). 
 
 ### Email
 
-Status: *Alpha*
+***Status***: *Alpha*
 
 Email is the backbone of internet identity. Without safe, secure, and private email it is impossible to have trust in any of the other services htat you sign up for. 
  * Your email is yours and your data is yours. 
@@ -30,21 +27,17 @@ Email is the backbone of internet identity. Without safe, secure, and private em
 
 ### Photo & File Backup 
 
-Status: *In Planning*
+***Status***: *In Planning*
 
 Many of us take advantage of providers such as Apple or Google to store our photos. 
 
-### Community 
+### Community Spaces 
 
-Status: *Our future vision*
+***Status***: *Future vision*
 
-How is the company different? 
+In addition to foundational services like email, or photo, video, and file sharing, our ultimate goal is to creat the necessary functionality to allow people to create, curate, and engage in their own personal, diverse social network. 
 
-First, we do not directly charge for any of our services. These services are provided for free, as we are able to provide them.
+We have plans on how we believe we will be able to get there. But are first focused on getting the foundational technology in place first, before movign on to our more ambitious plans. 
 
-What is my storage quota? 
 
-At antif4.com individual users do not have storage limits or quotas. You are free to use as much storage or bandwidth as you require. 
-
-However, remember that storage is a community resource. When antif4.com runs out of storage, everybody runs out of storage.
-
+.
