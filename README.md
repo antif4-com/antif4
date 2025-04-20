@@ -50,9 +50,13 @@ At antif4.com we abhor scale for scale's sake and are always cautious of growing
 
 ### Why is npm involved?
 
+Yes, our main website is a Hugo app, but the astute among you will notice that you are using npm commands (i.e. node tomfoolery) to actually install, build, and run the development server. The reason npm is showing up in the mix is due to css. 
+
 For styling, we are using the [WebTUI](https://webtui.ironclad.sh) CSS library and associated color themes. WebTUI is published as an npm package. So, we have an npm package wrapping our Hugo site. Currently, the only role of the npm package is to manage the npm packages that the Hugo site depends on. 
 
 `update_css.sh` is the shell script which is responsible for copying from `node_modules` to the antif4 theme's css directory under `assets`. The `npm run ...` commands are used to ensure that the Hugo css is in sync with the npm packages. 
+
+I imagine there is a much cleaner way of including css packages within Hugo. But I am not aware of it at the moment. 
 
 ### Why is there no layout defined?
 
