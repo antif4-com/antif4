@@ -26,9 +26,28 @@ a {
   text-decoration: none;
 }
 
-h1, h2, h3, h4, h5, h6 {
+p {
   margin-bottom: 1ch;
-  margin-top: 1ch;
+  margin-left: 1ch;
+}
+
+ul, ol {
+  margin-left: 2ch; 
+  margin-bottom: 1ch;
+}
+
+li {
+  margin-bottom: 1ch;
+}
+
+h1, h2, h3 {
+  margin-bottom: 2ch;
+  margin-top: 4ch;
+}
+
+h4, h5, h6 {
+  margin-bottom: 1ch;
+  margin-top: 2ch;
 }
 
 #site_title {
