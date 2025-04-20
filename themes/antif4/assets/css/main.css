@@ -64,10 +64,15 @@ h4, h5, h6 {
 }
 
 #top_menu li {
+  color: lavender; 
   list-style: none;
   display:inline;
 }
 
+#top_menu li a {
+  color: lavender;
+}
+
 #top_menu li:before {
-  content: none;
+  content: "|"
 }
