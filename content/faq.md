@@ -30,14 +30,19 @@ We do not want to scale. We abhor "scaling our way" into success. Getting big ki
 
 ### Will antif4.com charge for its services? 
 
-No. We will not charge for anything we do. While we will, at some point, look towards our users to provide resources, we are not currently. However, at no time with antif4.com ever sell anything. It will only accept freely given gifts. Gifts which are given because the giver supports our mission and wants to help ensure it succeeds. 
+No. We will not charge for anything we do. While we will, at some point, look towards our users to provide resources, we are not currently. However, at no time with antif4.com ever sell anything. It will only accept freely given gifts. Gifts which are given because the giver supports our mission and wants to help ensure it succeeds. Gifts can be a great many things as well, we don't always have to be so uncooth as to exchange moneys. 
 
-And while gifts/resources might be money, there is no reason we should limit ourselves. The important point should always be about mutual aid and being successful through our diversity. 
+A company also has power when it sets its prices. You don't know what their margin is, whether it is a good price, or not. It's not good for consumers. So, antif4.com will not give itself that power. It will never set a price for something it chages. Instead, we will be public about what it costs to do what we do, and the human effort it takes. 
+
+We believe, given full transperency, and trust, along with a belief in our mission, people will freely give to us, without needing to set, or demand a price. 
+
+### So you're going to make money by never charging for work? 
+
+Yes. We believe this is possible because fundamentally, we believe in people. Part of why we are building a company like this is because we want to be the change we want to see in the world. We're building our dream company, but from the perspective of a customer of that company, not from the perspective of a capitalist trying to steal as much money as possible
 
 ### Is antif4.com political? 
 
 No. We are not attempting to serve a political agenda nor do we consider ourselves a political group. In so far as "political" means intentionally working to further political power. 
-
 However, we very much are a company comprised of individuals who feel very passionately about political topics. Even further, we believe that it is a moral duty for us to allow our politics to influence our work and vice versa. 
 
 So, no, we are not a political company or organization and are not interested in engaging with or furthering any specific political organization. However, we have many feelings driven from compassion and empathy for all humans that require us to act or speak in a certain way. If others find this political, we are ok with that. 
@@ -47,10 +52,6 @@ So, no, we are not a political company or organization and are not interested in
 No. antif4.com believes in non-violent direct action. 
 
 > Nonviolent direct action seeks to create such a crisis and establish such creative tension that a community that has constantly refused to negotiate is forced to confront the issue. It seems to dramatize the issue that it can no longer be ignored. 
-
-### How is the company different?
-
-First, we do not directly charge for any of our services. These services are provided for free, as we are able to provide them.
 
 ## Email
 
