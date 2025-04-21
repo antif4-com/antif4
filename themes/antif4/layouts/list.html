@@ -2,7 +2,12 @@
   <h1>{{ .Title }}</h1>
   {{ .Content }}
   {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  <div box-="round contain:!top">
+    <span is-="badge" variant-="lavender">
+      <a href="{{ .RelPermalink }}">| {{ .LinkTitle }} |</a>
+    </span>
     {{ .Summary }}
+    <p><a href="{{ .RelPermalink }}">Read more...</a></p>
+  </div>
   {{ end }}
 {{ end }}
