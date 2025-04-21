@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on antif4.com</title>
+    <link>https://www.antif4.com/docs/</link>
+    <description>Recent content in Docs on antif4.com</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Apr 2025 17:39:21 -0700</lastBuildDate>
+    <atom:link href="https://www.antif4.com/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Deploy</title>
+      <link>https://www.antif4.com/docs/how-to-deploy/</link>
+      <pubDate>Sun, 20 Apr 2025 17:39:21 -0700</pubDate>
+      <guid>https://www.antif4.com/docs/how-to-deploy/</guid>
+      <description>&lt;p&gt;*Warning: this is a work in progress, and the process isn&amp;rsquo;t complete.&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-to-deploy&#34;&gt;How to deploy&lt;/h2&gt;&#xA;&lt;p&gt;These instructions only apply to the static Hugo website that powers the majority of the content on &lt;a href=&#34;https://www.antif4.com&#34;&gt;www.antif4.com&lt;/a&gt; and is served via an nginx instance runnin gon a VPS.&lt;/p&gt;&#xA;&lt;h3 id=&#34;step-1-generate-a-deploy-package&#34;&gt;Step 1. Generate a deploy package&lt;/h3&gt;&#xA;&lt;p&gt;Deploy packages are stored in &lt;code&gt;./deploy&lt;/code&gt; and are checked into the repo. To create a new deploy package run:&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;npm run deploy&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

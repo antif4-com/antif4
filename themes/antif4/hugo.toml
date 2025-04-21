@@ -9,9 +9,14 @@ title = 'antif4.com'
     weight = 20
 
   [[menus.main]]
-    name = 'About'
-    pageRef = '/about-us'
+    name = 'Docs'
+    pageRef = '/docs'
     weight = 30
+
+  [[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 40
 
 [module]
   [module.hugoVersion]
