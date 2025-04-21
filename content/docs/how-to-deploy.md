@@ -4,7 +4,7 @@ draft = false
 title = 'How to Deploy'
 +++
 
-*Warning: this is a work in progress, and the process isn't complete.
+*Warning: this is a work in progress, and the process isn't complete.*
 
 ## How to deploy 
 
