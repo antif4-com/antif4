@@ -12,7 +12,7 @@ antif4.com is a sincere, fundamentally human, online community. We are focused o
 
 Right now, we are focused on building the technical infrastructure of antif4.com and in closed, alpha testing of our intial email service. 
 
-Continue reading for more information about antif4.com email and our other, future plans. In addition, you can read more about us, why antif4.com is the way it is, and our hope for the future here: [About Us](/about_us). 
+Continue reading for more information about antif4.com email and our other, future plans. In addition, you can read more about us, why antif4.com is the way it is, and our hope for the future here: [About Us](/about). 
 
 ### Email
 
