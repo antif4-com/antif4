@@ -4,16 +4,17 @@ draft = false
 title = 'About antif4.com'
 +++
 
-## A Brief History
+## antif4.com
 
-antif4.com is an self-aware and sincere effort to build a human-focused internet company and surrounding community. At antif4.com we strive every day to ask ourselves what kind of company we would want to be customers of, and let that direct our work. 
+antif4.com is a self-aware, and sincere, effort to build a human-focused internet company and surrounding community. At antif4.com, we strive to build the type of company we would want to be customers of, and let that direct our work. 
 
-Antif4.com is, unsurpringly anti-fascist and pro-diversity. We believe a better world can build built, one company, and person, at a time. 
+Antif4.com is, unsurpringly, anti-fascist and pro-diversity. We believe a better world can build built, one company, and person, at a time. 
 
 ## The People Behind antif4.com
 
-Eian
-eian@antif4.com
+### Eian 
+
+#### [eian@antif4.com](mailto:eian@antif4.com)
 
 Hi! I'm Eian and one of the people behind antif4.com. I've enjoyed and learned a lot from a decades long career in technology and I'm excited to bring all that learning and experience to antif4.com. 
 
