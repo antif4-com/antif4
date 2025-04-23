@@ -46,36 +46,46 @@ class StaticSite < Thor
   end
 
   desc "build", "build the antif4.com site. Generated site is placed in ./_site"
+  method_options :production => false
   def build
-    stage ("Updating NPM packages") do 
+    stage ('Updating NPM packages') do
       system "npm install"
     end 
 
-    stage ("Updating CSS in jekyll assett dir") do
+    stage ('Updating CSS in jekyll assett dir') do
       system "./update_css.sh"
     end
 
     stage ("Building jekyll site") do
+      ENV['JEKYLL_ENV'] = 'production' if options.production?
       system "bundle exec jekyll build"
     end
   end
 
   desc "server", "runs the local developer server"
+  method_options :production => false
+  method_options :livereload => true
   def server
-    build
+    pro_val = options.production?
+    invoke("build", [],  production: pro_val)
 
-    system ("bundle exec jekyll server --livereload")
+    live_reload = options.livereload? ? "--livereload" : ""
+
+    system ("bundle exec jekyll server #{live_reload}")
   end
 
   desc "package", "builds and packages the site to deploy"
   def package
-    build
+    # build, but only package production
+    invoke "build", [], production: true
 
     system "./build_deploy.sh"
   end
 
   desc "deploy", "deploys the server"
+  method_options :pre_package => :false
   def deploy
+    package if options.pre_package?
     puts "deploy"
   end
 
