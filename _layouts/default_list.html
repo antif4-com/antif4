@@ -1,0 +1,18 @@
+<!doctype html>
+<html data-webtui-theme="catppuccin-mocha">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <header>
+      {% include header.html %}
+    </header>
+    <main>
+      {% include list.html list_col=site.collections[page.collection_to_list] %}
+    </main>
+    <footer>
+      {% include footer.html %}
+    </footer>
+  </body>
+</html>
+

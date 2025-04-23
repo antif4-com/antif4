@@ -1,0 +1,11 @@
+{% for i in include.list_col do %}
+  {% if i.dont_list != true %}
+    <div box-="round contain:!top">
+      <span is-="badge" variant-="lavender">
+        <a href="{{ i.url }}">| {{ i.title }} |</a>
+      </span>
+      {{ i.excerpt }}
+      <p><a href="{{ i.url }}">Read more...</a></p>
+    </div>
+  {% endif %}
+{% endfor %}
