@@ -15,7 +15,7 @@ class StaticSite < Thor
   def server
     build
 
-    exec("bundle exec jekyll serve --livereload")
+    system ("bundle exec jekyll server --livereload")
   end
 
   desc "package", "builds and packages the site to deploy"

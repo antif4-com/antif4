@@ -1,6 +1,8 @@
 ---
 ---
-@import "./webtui/base/full.css";
-@import './webtui/catppuccin/index.css';
+@layer base, utils, components;
 
-@import "main";
+@import "webtui/base/full.css";
+@import "webtui/catppuccin/index.css";
+@uses "main";
+
