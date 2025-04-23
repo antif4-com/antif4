@@ -1,5 +1,3 @@
-
-
 title: antif4.com
 email: eian@antif4.com
 description: >-
@@ -29,7 +27,6 @@ defaults:
       path: ""
     values:
       layout: "default"
-
 
 collections:
   docs:
