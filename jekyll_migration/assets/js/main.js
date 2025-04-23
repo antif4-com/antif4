@@ -1,1 +1,1 @@
-console.log('We love you, stay strong, be diverse, be yourself. - antif4.com')
+console.log('We love you, be diverse, be yourself, stay strong. - antif4.com')
