@@ -1,8 +1,6 @@
-+++
-date = '2025-04-20T22:06:28-07:00'
-draft = false
-title = 'About antif4.com'
-+++
+---
+title: 'About antif4.com'
+---
 
 ## antif4.com
 
