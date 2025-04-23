@@ -1,8 +1,5 @@
-+++
-date = '2025-04-20T13:47:49-07:00'
-draft = false
-title = "Frequently Asked Questions (FAQ)"
-+++
+---
+---
 
 ## antif4.com 
 

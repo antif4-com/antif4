@@ -1,0 +1,36 @@
+
+
+title: antif4.com
+email: eian@antif4.com
+description: >-
+  antif4.com - a safe, diverse place for people to find community and mutual
+  aid. Antif4.com is a open, hippy, technology company and we're trying
+  to do things very different.
+baseurl: "/"
+url: "http://www.antif4.com"
+
+sass:
+  sass_dir: _sass
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile.lock
+  - node_modules/
+  - package.json
+  - package-lock.json
+  - README.md
+  - "*.rb"
+  - "*.sh"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+
+collections:
+  docs:
+    output: true

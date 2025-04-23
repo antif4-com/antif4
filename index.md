@@ -1,10 +1,8 @@
-+++
-date = '2025-04-14T17:39:58-07:00'
-draft = false
-title = 'antif4.com'
-[params]
-  subtitle = "Safe, united, community"
-+++
+---
+draft: false
+title: 'antif4.com'
+subtitle: "Safe, united, community"
+---
 
 Hello! Welcome to our cozy corner of the internet. We hope that you will find it comfortable, and maybe even stay a while. 
 

@@ -1,7 +1,11 @@
 #!/bin/zsh
 
-mkdir ./themes/antif4/assets/css/webtui
-mkdir ./themes/antif4/assets/css/webtui/base
-mkdir ./themes/antif4/assets/css/webtui/catppuccin
-cp -r ./node_modules/@webtui/css/dist/* ./themes/antif4/assets/css/webtui/base
-cp -r ./node_modules/@webtui/theme-catppuccin/dist/* ./themes/antif4/assets/css/webtui/catppuccin
+base_dir="./assets/css/webtui"
+source_dir="./node_modules/@webtui"
+
+mkdir -p $base_dir/base
+mkdir -p $base_dir/catppuccin
+cp -r $source_dir/css/dist/* $base_dir/base
+cp -r $source_dir/theme-catppuccin/dist/* $base_dir/catppuccin/
+
+echo Completed updating css.  

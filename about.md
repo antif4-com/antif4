@@ -1,8 +1,6 @@
-+++
-date = '2025-04-20T22:06:28-07:00'
-draft = false
-title = 'About antif4.com'
-+++
+---
+title: 'About antif4.com'
+---
 
 ## antif4.com
 
@@ -16,7 +14,7 @@ Antif4.com is, unsurpringly, anti-fascist and pro-diversity. We believe a better
 
 #### [eian@antif4.com](mailto:eian@antif4.com)
 
-Hi! I'm Eian and one of the people behind antif4.com. I've enjoyed and learned a lot from a decades long career in technology and I'm excited to bring all that learning and experience to antif4.com. 
+Hi! I'm Eian and one of the people behind antif4.com. I've enjoyed and learned a lot from a decades long career in technology.
 
 When I quit my job at AWS in 2024, I had the thought that it might be me quitting my ~25  year tech career. But now, I realize that it was also the end of my direct involvement in a toxic work culture and technofascism. I wish I had done it sooner. 
  
