@@ -3,22 +3,23 @@
 
 This is the website for www.antif4.com. 
 
-Technically, it is a hugo site, with a custom theme (antif4) using webtui css. 
+Technically, it is a jykell site using webtui css. 
 
 ## Getting Started
 
-1. Install hugo and node
-2. Clone this repo
-3. `npm install`
-4. `npm run build`
+1. Install ruby, rubygems, node, and npm 
+2. `gem install bundler`
+3. Clone this repo
+4. bundle install
+5. `./antif4.rb build`
 
-At this point, the website will exist in ./public/
+At this point, the website will exist in ./_site/
 
 ## Development Server
 
 To run a development server to view content locally, run: 
 
-`npm run server`
+`./antif4.rb server`
 
 As you make changes, the server will rebuild them. So no need to restart the server after every change. An editor on one side and web browser in the other is a really nice way to edit/build pages. 
 
@@ -28,13 +29,7 @@ As you make changes, the server will rebuild them. So no need to restart the ser
 
 ## New Content
 
-For now, posts are the only content and are very default. To create a new post, run:
-
-`hugo new content posts/my-post-name.md`
-
-A new post will be created in ./content/posts according to the name you pass. Edit it directly in the .md file and use markdown formatting.
-
-However, this is pure Hugo at this point. So for any questions about new content, formatting, templates, etc. [See Hugo Documentation](https://gohugo.io/documentation/).
+*TBD after change to jykell*
 
 ## FAQ
 
@@ -50,19 +45,13 @@ At antif4.com we abhor scale for scale's sake and are always cautious of growing
 
 ### Why is npm involved?
 
-Yes, our main website is a Hugo app, but the astute among you will notice that you are using npm commands (i.e. node tomfoolery) to actually install, build, and run the development server. The reason npm is showing up in the mix is due to css. 
+Yes, our main website is a Jykell site, but antif4.rb does npm tomfoolery to actually install, build, and run the development server. The reason npm is showing up in the mix is due to css. 
 
-For styling, we are using the [WebTUI](https://webtui.ironclad.sh) CSS library and associated color themes. WebTUI is published as an npm package. So, we have an npm package wrapping our Hugo site. Currently, the only role of the npm package is to manage the npm packages that the Hugo site depends on. 
+For styling, we are using the [WebTUI](https://webtui.ironclad.sh) CSS library and associated color themes. WebTUI is published as an npm package. So, we have an npm package wrapping our Hugo site. Currently, the only role of the npm package is to manage the npm packages that the Jykell site depends on. 
 
 `update_css.sh` is the shell script which is responsible for copying from `node_modules` to the antif4 theme's css directory under `assets`. The `npm run ...` commands are used to ensure that the Hugo css is in sync with the npm packages. 
 
 I imagine there is a much cleaner way of including css packages within Hugo. But I am not aware of it at the moment. 
-
-### Why is there no layout defined?
-
-All styling is done through a Hugo theme called `antif4` (we're original with naming around here). This was done so that we can easily layout/theme future sites in a similar manner.  
-
-If you need to make an html/css update, you can find the `antif4` theme under `themes/antif4`.
 
 ## Get Involved
 
