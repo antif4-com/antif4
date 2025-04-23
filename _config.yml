@@ -29,3 +29,8 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+
+collections:
+  docs:
+    output: true

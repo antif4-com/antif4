@@ -1,8 +1,7 @@
-+++
-date = '2025-04-20T17:39:21-07:00'
-draft = false
-title = 'How to Deploy'
-+++
+---
+draft: false
+title: 'How to Deploy'
+---
 
 *Warning: this is a work in progress, and the process isn't complete.*
 
