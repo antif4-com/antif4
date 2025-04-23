@@ -1,1 +1,12 @@
-<h1 id="site_title"><a href="/"> {{ site.Title }}</a><h1>
+<h1 id="site_title"><a href="/">antif4.com</a><h1>
+<nav id="top_menu">
+  <ul>
+    {% for item in site.data.navigation %}
+      <li>
+        <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+          {{ item.name }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
