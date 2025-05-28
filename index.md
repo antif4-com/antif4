@@ -4,7 +4,7 @@ title: 'antif4.com'
 subtitle: "Safe, united, community"
 ---
 
-Hello! Welcome to our cozy corner of the internet. We hope that you will find it comfortable, and maybe even stay a while. 
+Hello!! Welcome to our cozy corner of the internet. We hope that you will find it comfortable, and maybe even stay a while. 
 
 antif4.com is a sincere, fundamentally human, online community. We are focused on building safe, durable online communities that deeply value diversity and mutually supporting one another. The world is not safe, and so we must make our own safe harbors. We believe that this first must start by us taking back ownership of our personal online lives. 
 
